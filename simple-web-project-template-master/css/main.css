@@ -22,7 +22,20 @@ nav
    height: 100%;
    top: 0;
    right: 9%;
+}
 
+nav div
+{
+   border-top: 2px solid #ab970d;
+   height: 5.5%;
+   width: 100%;
+   color: #ab970d;
+}
+
+.spacer
+{
+   height: 11%;
+   border:none;
 }
 
 footer
