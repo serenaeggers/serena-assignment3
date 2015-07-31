@@ -1,4 +1,36 @@
 body
 {
    background-color: #473f3f;
+
+}
+
+main
+{
+   border-right: 2px solid #ab970d;
+   width: 70%;
+   position: fixed;
+   top: 0;
+   bottom: 0;
+}
+
+nav
+{
+   border-left: 2px solid #ab970d;
+   border-right: 2px solid #ab970d;
+   position: fixed;
+   width: 2rem;
+   height: 100%;
+   top: 0;
+   right: 9%;
+
+}
+
+footer
+{
+   border-top: 2px solid #ab970d;
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   height: 25%;
+   width: 100%;
 }
