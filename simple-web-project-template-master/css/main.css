@@ -22,6 +22,10 @@ nav
    height: 100%;
    top: 0;
    right: 9%;
+
+   font-family: sans-serif;
+   font-size: 1.5rem;
+   font-weight: bold;
 }
 
 nav div
@@ -30,12 +34,25 @@ nav div
    height: 5.5%;
    width: 100%;
    color: #ab970d;
+   text-align: center;
+   line-height: 1.3em;
 }
 
 .spacer
 {
    height: 11%;
    border:none;
+}
+
+nav div:nth-child(2n)
+{
+   background-color: #ab970d;
+   color: #473f3f;
+}
+
+nav div:nth-child(n+1):hover
+{
+   background-color: #a23542;
 }
 
 footer
@@ -47,3 +64,6 @@ footer
    height: 25%;
    width: 100%;
 }
+
+/* Page content below */
+
