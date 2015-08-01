@@ -1,0 +1,32 @@
+<html>
+<head>
+   <meta charset="utf-8">
+   <title>10 Rules</title>
+   <link rel="stylesheet" href="css/base.css">
+   <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+   <main>
+      <div class="spacer"></div>
+      <h1><span class="home-header"><span>10</span>principles</span><br>for good design
+      </h1>
+      <h2>by Dieter Rams</h2>
+   </main>
+   <nav>
+      <div class="spacer"></div>
+      <div>1</div>
+      <div>2</div>
+      <div>3</div>
+      <div>4</div>
+      <div>5</div>
+      <div>6</div>
+      <div>7</div>
+      <div>8</div>
+      <div>9</div>
+      <div>10</div>
+      <div>H</div>
+   </nav>
+   <footer>
+   </footer>
+</body>
+</html>
