@@ -45,7 +45,7 @@ nav div
    border:none;
 }
 
-nav div:nth-child(2n)
+.odd
 {
    background-color: #ab970d;
    color: #473f3f;
@@ -106,4 +106,9 @@ h2
 {
    position: relative;
    right: 0.08em;
+}
+
+a
+{
+   text-decoration:none;
 }
