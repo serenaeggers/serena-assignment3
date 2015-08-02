@@ -113,6 +113,13 @@ h1
    font-variant: small-caps;
    line-height: 0.6em;
    background-color: #473f3f;
+   margin-bottom: 50px;
+   margin-top: 10px;
+}
+
+.home-top
+{
+   margin-top: 0px;
 }
 
 h1>span
@@ -144,10 +151,9 @@ p
    color: #ab970d;
    font-size: 1.5rem;
    letter-spacing: 2px;
-   margin-top: 30px;
    background-color: #473f3f;
-   margin-right: 17%;
-   margin-top: 2em;
+   margin-right: 10%;
+   margin-top: 1em;
 }
 
 /* Page-specific*/
