@@ -75,7 +75,7 @@ nav div
 
 .odd
 {
-   background-color: rgba(171,151,13,0.6);
+   background-color: rgba(171,151,13,1);
    color: #473f3f;
 }
 
@@ -167,4 +167,35 @@ p
 a
 {
    text-decoration:none;
+}
+
+.main1
+{
+   background-color: #a23542;
+   margin-left: -40px;
+   height: 75%;
+}
+
+.title1
+{
+   background-color: #ab970d;
+   font-size: 4rem;
+   padding-left: 40px;
+   padding-bottom: 40px;
+   line-height: 5rem;
+}
+
+.title1 span
+{
+   color: #473f3f;
+   padding-left: 10px;
+}
+
+.text1
+{
+   font-family: Impact;
+   background-color: #a23542;
+   color: #473f3f;
+   padding-left: 30px;
+   margin-top: -15px;
 }
