@@ -24,6 +24,25 @@ main
    padding-left: 5%;
 }
 
+.column
+{
+   width: 5%;
+   height: 100%;
+   position: absolute;
+   left: 80%;
+   border-left: 1px solid #ab970d;
+   border-right: 1px solid #ab970d;
+}
+
+.column2
+{
+   width: 3%;
+   height: 100%;
+   position: absolute;
+   left: 97%;
+   border-left: 1px solid #ab970d;
+}
+
 nav
 {
    border-left: 2px solid #ab970d;
@@ -74,6 +93,15 @@ footer
    left: 0;
    height: 25%;
    width: 100%;
+}
+
+footer div
+{
+   height: 30%;
+   position: relative;
+   top: 20%;
+   border-bottom: 1px solid #ab970d;
+   border-top: 1px solid #ab970d;
 }
 
 /* Page content below; framework above */
