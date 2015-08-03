@@ -292,3 +292,19 @@ a
    top: 45px;
 }
 
+.title6
+{
+   font-size: 4em;
+   color: #ab970d;
+}
+
+.text6
+{
+   font-weight: 400;
+   color: #a23542;
+   margin: 40px;
+   margin-right: 80px;
+   margin-top: 60px;
+   border-bottom: 2px solid #a23542;
+   padding-bottom: 40px;
+}
