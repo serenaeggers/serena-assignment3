@@ -308,3 +308,23 @@ a
    border-bottom: 2px solid #a23542;
    padding-bottom: 40px;
 }
+
+.text7
+{
+   color: #473f3f;
+   background-color: #ab970d;
+   font-weight: 400;
+   padding: 60px;
+   position: relative;
+   left: 5px;
+   bottom: 7px;
+}
+
+.text7 span
+{
+   font-size: 2em;
+   padding: 10px;
+   position: relative;
+   left: 45%;
+   top: -0.5em;
+}
