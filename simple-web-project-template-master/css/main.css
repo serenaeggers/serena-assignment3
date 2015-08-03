@@ -378,3 +378,29 @@ a
    margin-top: 10px;
    letter-spacing: 1px;
 }
+
+.text9
+{
+   font-weight: 700;
+   color: #473f3f;
+   padding-right: 40px;
+   padding-top: 40px;
+   padding-bottom: 45px;
+   margin-left: 50px;
+   border-right: 1px solid #473f3f;
+   border-bottom: 1px solid #473f3f;
+}
+
+.text9 span
+{
+   font-weight: 400;
+   letter-spacing: 2px;
+   line-height: 1.2em;
+}
+
+.main9
+{
+   background-color: rgba(171,151,13,0.7);
+   margin-left: -40px;
+   height: 75%;
+}
