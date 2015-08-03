@@ -255,3 +255,25 @@ a
    border-left: 2px solid #a23542;
    padding-left: 20px;
 }
+
+.title4
+{
+   text-align: center;
+   color: #ab970d;
+}
+
+.text4
+{
+   margin-top: 0px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border-top: 1px solid #ab970d;
+   line-height: 1em;
+}
+
+.text4 span
+{
+   font-family: Impact;
+   text-align: center;
+}
+
