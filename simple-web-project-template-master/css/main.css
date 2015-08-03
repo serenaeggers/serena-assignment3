@@ -277,3 +277,18 @@ a
    text-align: center;
 }
 
+.title5
+{
+   font-family: 'Source Sans Pro', sans-serif;
+   text-spacing: 3px;
+   font-weight: 300;
+   font-size: 3rem;
+}
+
+.text5
+{
+   margin-left: 22%;
+   position: relative;
+   top: 45px;
+}
+
