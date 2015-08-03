@@ -328,3 +328,53 @@ a
    left: 45%;
    top: -0.5em;
 }
+
+.title8
+{
+   text-align: center;
+   padding-bottom: 30px;
+   border-bottom: 1px solid #a23542;
+   margin-right: 40px;
+   margin-top: -10px;
+}
+
+.line1
+{
+   font-size: 4rem;
+   letter-spacing: 5px;
+   position: relative;
+   bottom: 20px;
+}
+
+.line2
+{
+   font-size: 2rem;
+   text-align: right;
+   padding: 0px;
+   margin-top: -10px;
+   margin-right: 32px;
+}
+
+.line3
+{
+   font-size: 1.4rem;
+   margin-top: 20px;
+   letter-spacing: 3px;
+   margin-right: 32px;
+   text-indent: 4px;
+   margin-bottom: 20px;
+}
+
+.line4 span
+{
+   font-weight: 400;
+   font-size: 2rem;
+}
+
+.line4
+{
+   font-size: 1.6rem;
+   margin-right: 32px;
+   margin-top: 10px;
+   letter-spacing: 1px;
+}
